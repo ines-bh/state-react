@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+.fullname {
+  text-align: center;
+
+  border-style: 10px;
+}
+.bio {
+  text-align: center;
+}
+
+.profession {
+  text-align: center;
+}
+.laico {
+  text-align: center;
+  width: 500px;
+  
+}
+.button {
+  text-align: center;
+}
